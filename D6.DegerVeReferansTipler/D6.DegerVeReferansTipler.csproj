@@ -5,8 +5,4 @@
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
 
-  <ItemGroup>
-    <None Remove="SepetManager.cs~RF3dfdcf.TMP" />
-  </ItemGroup>
-
 </Project>

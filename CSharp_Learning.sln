@@ -31,9 +31,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D24-D25.RefOutKeyword", "D2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D26.MethodOverloading", "D26.MethodOverloading\D26.MethodOverloading.csproj", "{90C0D77F-6A99-45B8-9241-6B75E33FC01A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D27.Params", "D27.Params\D27.Params.csproj", "{3E2D0977-99F2-4ADA-8226-12209274527F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D27.Params", "D27.Params\D27.Params.csproj", "{3E2D0977-99F2-4ADA-8226-12209274527F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D28.Arrays", "D28.Arrays\D28.Arrays.csproj", "{3C039D95-FC14-40C6-911D-27B66D3A9404}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "D28.Arrays", "D28.Arrays\D28.Arrays.csproj", "{3C039D95-FC14-40C6-911D-27B66D3A9404}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DO6.ClassMetotDemo", "DO6.ClassMetotDemo\DO6.ClassMetotDemo.csproj", "{510728CD-33A3-493C-9F5C-826CA759A046}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -101,6 +103,10 @@ Global
 		{3C039D95-FC14-40C6-911D-27B66D3A9404}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C039D95-FC14-40C6-911D-27B66D3A9404}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C039D95-FC14-40C6-911D-27B66D3A9404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{510728CD-33A3-493C-9F5C-826CA759A046}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{510728CD-33A3-493C-9F5C-826CA759A046}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{510728CD-33A3-493C-9F5C-826CA759A046}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{510728CD-33A3-493C-9F5C-826CA759A046}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

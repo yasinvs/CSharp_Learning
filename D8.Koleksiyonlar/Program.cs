@@ -21,7 +21,6 @@ namespace D8.Koleksiyonlar
             //Console.WriteLine(isimler[4]);
             //Console.WriteLine(isimler[0]);
 
-
             List<string> isimler2 = new List<string> { "Engin","Murat", "Kerem", "Halil" };
             Console.WriteLine(isimler2[0]);
             Console.WriteLine(isimler2[1]);

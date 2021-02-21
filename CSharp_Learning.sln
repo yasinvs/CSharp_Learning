@@ -51,9 +51,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "KENDIORNEKLERIM", "KENDIORN
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyReferenceTypes", "MyReferenceTypes\MyReferenceTypes.csproj", "{28428E41-4F54-4D63-B738-943BB7DBE83C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DO7.Constructions", "Constructions\DO7.Constructions.csproj", "{2A1C8960-E22C-484C-8144-494A3FBB7597}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DO7.Constructions", "Constructions\DO7.Constructions.csproj", "{2A1C8960-E22C-484C-8144-494A3FBB7597}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DO9.Generics", "DO9.Generics\DO9.Generics.csproj", "{59396351-E9C3-4B2A-BD78-237DFCD78D6D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DO9.Generics", "DO9.Generics\DO9.Generics.csproj", "{59396351-E9C3-4B2A-BD78-237DFCD78D6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DO10.Dictionary", "DO10.Dictionary\DO10.Dictionary.csproj", "{61E78169-1C3D-4719-BF2B-6475EAEA29D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DO11.MyDictionary", "DO11.MyDictionary\DO11.MyDictionary.csproj", "{3F847173-B1F1-4EA4-87AC-16D3B9585CED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +157,14 @@ Global
 		{59396351-E9C3-4B2A-BD78-237DFCD78D6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59396351-E9C3-4B2A-BD78-237DFCD78D6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59396351-E9C3-4B2A-BD78-237DFCD78D6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{61E78169-1C3D-4719-BF2B-6475EAEA29D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61E78169-1C3D-4719-BF2B-6475EAEA29D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61E78169-1C3D-4719-BF2B-6475EAEA29D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61E78169-1C3D-4719-BF2B-6475EAEA29D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F847173-B1F1-4EA4-87AC-16D3B9585CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F847173-B1F1-4EA4-87AC-16D3B9585CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F847173-B1F1-4EA4-87AC-16D3B9585CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F847173-B1F1-4EA4-87AC-16D3B9585CED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

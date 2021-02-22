@@ -19,11 +19,9 @@ namespace DO1.TernaryOperatoru
             int girilenSayi = int.Parse(Console.ReadLine());
             string gosterilenCevap = "";
 
-
-
             gosterilenCevap += girilenSayi == 7 ? "Tebrikler doğru bildiniz" : "Yanlış bildiniz";
-
             Console.WriteLine(gosterilenCevap);
+            Console.WriteLine(girilenSayi == 7 ? "Tebrikler doğru bildiniz" : "Yanlış bildiniz");
         }
     }
 }

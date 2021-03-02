@@ -1,0 +1,12 @@
+Classlarýn iki temel özelliði vardýr... Birincisi içinde özellikler tutar Ýkinci operasyonlar tutar.. Ýki özellik içinde ayrý class açmamýz gerekir.
+Interfaceler birbirinin alternatifi olan ama kod içerikleri farklý olan durumlar için kullanýrýz.
+
+Eðer bir yerde new görürsek bu bellekteki referans nodur.
+
+
+Ýmplementasyon - Uygulama Demek
+Inheritance - Miras alma
+Syntax - Sözdizimi
+SOLID - Yazýlýk geliþtirme prensibi
+Polymorphism - polimorfizm -- Çok biçimlilik
+

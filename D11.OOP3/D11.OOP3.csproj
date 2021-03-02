@@ -3,7 +3,11 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>84383279-ca0e-4cd6-b26c-890cd0aebe36</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="KonutKrediManager.cs~RFbbba980.TMP" />
+    <None Remove="Program.cs~RFe0feb68.TMP" />
+  </ItemGroup>
 
 </Project>

@@ -3,7 +3,10 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>84383279-ca0e-4cd6-b26c-890cd0aebe36</UserSecretsId>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="MusteriManager.cs~RF16816fb.TMP" />
+  </ItemGroup>
 
 </Project>

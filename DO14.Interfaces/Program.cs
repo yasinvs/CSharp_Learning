@@ -10,7 +10,12 @@ namespace DO14.Interfaces
 
             //Demo();
 
-
+            ICustomerDal[] customerDals = new ICustomerDal[3]
+            {
+                new MySqlServerCustomerDal(),
+                new SqlServerCustomerDal(),
+                new OracleServerCustomerDal()
+            };
 
         }
 
